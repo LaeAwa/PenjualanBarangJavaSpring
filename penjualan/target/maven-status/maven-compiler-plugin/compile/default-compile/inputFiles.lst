@@ -1,0 +1,12 @@
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\controller\BarangController.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\repository\BarangRepository.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\controller\PenjualanController.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\PenjualanApplication.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\entity\Barang.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\service\PenjualanService.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\service\BarangService.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\exception\BarangNotFoundAdvice.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\dto\ResponceDto.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\exception\BarangNotFoundException.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\entity\Penjualan.java
+D:\NGODING\penjualan (1)\penjualan\src\main\java\com\penjualansperpat\penjualan\repository\PenjualanRepository.java
